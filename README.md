@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Douae Abdouni
 =====================================================================================================================================
 
-Software Engineering Student | Aspiring Developer | Tech Enthusiast
+👩🏻‍🎓Software Engineering Student | Aspiring Developer | Tech Enthusiast
 -------------------------------------------------------------------
 
 As a Software Engineering student, I am passionate about building scalable applications and learning the foundations of software architecture, system design, and modern development practices. My academic path has equipped me with strong technical skills, and I’m eager to translate that knowledge into real-world projects.
